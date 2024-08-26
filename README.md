@@ -17,6 +17,8 @@ Dynamic Dashboards: Interactive visualizations that allow users to explore vario
 Comprehensive Data Model: Structured data model that supports detailed analysis and reporting.
 
 Efficient Data Manipulation: Utilizes advanced DAX functions for accurate and dynamic data analysis.
+
+See the full dashboard here- https://app.powerbi.com/groups/me/reports/4d22d2b8-c1e2-41e0-9feb-953651823bda/ReportSection?experience=power-bi
 ## Data Model
 The data model in this project includes the following key elements:
 
