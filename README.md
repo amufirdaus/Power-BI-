@@ -19,6 +19,7 @@ Comprehensive Data Model: Structured data model that supports detailed analysis 
 Efficient Data Manipulation: Utilizes advanced DAX functions for accurate and dynamic data analysis.
 
 See the full dashboard here-  [Dashboard Link](https://app.powerbi.com/groups/me/reports/4d22d2b8-c1e2-41e0-9feb-953651823bda/ReportSection?experience=power-bi)
+![Dashboard Screenshot](https://github.com/amufirdaus/Power-BI-/blob/main/Screenshot%20(11).png?raw=true)
 
 ## Data Model
 The data model in this project includes the following key elements:
